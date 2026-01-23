@@ -1,0 +1,6 @@
+# Test ping
+
+PC1 → PC2 (stessa VLAN) → Success 100%
+PC1 → PC3 (VLAN diversa) → 80-100% (Packet Tracer simulation)
+Router → PC1 → 100%
+Router → PC3 → 80-100%
